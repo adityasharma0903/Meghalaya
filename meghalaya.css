@@ -1,0 +1,28 @@
+.meghalaya::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: url(falls-meghalaya.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+h1{
+    color: white;
+
+}
+
+p{
+    color: white;
+    text-align: center;
+    margin-top: 12pc;
+    margin-left: 25pc;
+
+}
+
+
